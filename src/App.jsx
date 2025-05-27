@@ -7,7 +7,7 @@ import Footer from "./pages/sections/Footer.jsx"
 import ContactUs from "./pages/sections/ContactUs.jsx"
 import Submission from "./pages/sections/Submission.jsx"
 import Header from "./pages/sections/Header.jsx"
-
+import tailwindcss from '@tailwindcss/vite'
 
 function App() {
 
