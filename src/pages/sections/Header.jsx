@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import tailwindcss from '@tailwindcss/vite'
+
 
 function Header() {
 
   return (
-    pass
+    <div>Header</div>
   )
 }
 

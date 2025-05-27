@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import tailwindcss from '@tailwindcss/vite'
+
 
 function Submission() {
 
   return (
-    pass
+    <div>Submission</div>
   )
 }
 

@@ -1,11 +1,10 @@
 import { useState } from 'react'
-import tailwindcss from '@tailwindcss/vite'
 
 
 function Hero() {
 
   return (
-    pass
+    <div>Hero Section</div>
   )
 }
 
