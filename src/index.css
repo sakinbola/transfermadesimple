@@ -14,3 +14,28 @@ body {
 
 /* needed to install  Post CSS Language Support for some reason tailwind
 error Unknown at rule @tailwindcss(unknownAtRules)*/
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* includes padding and border in width and height of element  */
+
+}
+
+.montserrat-style {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  font-family : Montserrat, sans-serif;
+  background: #EEAECA;
+  /* old machines */
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  /* new machines */
+  min-height: 100vh;
+}

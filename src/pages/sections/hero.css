@@ -1,0 +1,21 @@
+.hero {
+    text-align: center;
+    color: black;
+    margin-bottom: 50px;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero h1 {
+    font-bold: 700;
+    font-weight: 600;
+    font-size: 4rem;
+    margin-bottom: 40px;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
