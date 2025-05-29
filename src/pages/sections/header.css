@@ -1,0 +1,30 @@
+
+
+
+.header {
+    text-align: center; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+
+.header a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+.header a:visited {
+    color:black;
+}
+
+
+/* stops blue/purple highlighting */
